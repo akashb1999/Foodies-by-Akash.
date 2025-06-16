@@ -1,4 +1,4 @@
-# Project Title
+# FOODIES by Akash Bhattacharyya.
 
 A Food Based Website that shows various food dises, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
 
