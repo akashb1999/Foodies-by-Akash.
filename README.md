@@ -22,4 +22,4 @@ A Food Based Website that shows various food dises, catalogs, reviews, and testi
 
 1. Clone the repository  
    ```bash
-git clone https://akashb1999.github.io/foodies-by-Akash./
+   git clone https://akashb1999.github.io/foodies-by-Akash./
